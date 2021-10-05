@@ -12,7 +12,11 @@
 - 💬 Ask me about anything, I am happy to help!
 - ⚡ Fun fact: I love books (specially science fiction and fantasy) and PC Games (specially MMORPGS and open-ended RPGs).
 
-### Language and Tools
+<br />
+
+
+## 🧰 Languages and Tools:
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="50" style="vertical-align:top; margin:4px">
 <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="Azure" height="50" style="vertical-align:top; margin:4px">  
@@ -28,6 +32,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="30" style="vertical-align:top; margin:4px" alt="Windows" height="40" style="vertical-align:top; margin:4px">
 
 </p>
+
+<br />
 
 ## :trophy: My Github Stats:
 
