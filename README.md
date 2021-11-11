@@ -6,8 +6,8 @@
 [![GitHub biafernandes](https://img.shields.io/github/followers/biafernandes?label=follow&style=social)](https://github.com/bia-fernandes)
 
 
-- 💼 I’m currently working as Senior Data Science Consultant at EY Brazil.
-- :books: I’m currently learning more NLP and Reccomender Engines.
+- 💼 I’m currently working as Senior Business Analyst at Nubank.
+- :books: I’m currently learning Scala.
 - :raising_hand: I’m looking to collaborate on Data Science competitions.
 - 💬 Ask me about anything, I am happy to help!
 - ⚡ Fun fact: I love books (specially science fiction and fantasy) and PC Games (specially MMORPGS and open-ended RPGs).
