@@ -6,7 +6,7 @@
 [![GitHub biafernandes](https://img.shields.io/github/followers/biafernandes?label=follow&style=social)](https://github.com/bia-fernandes)
 
 
-- 💼 I’m currently working as Senior Business Analyst at Nubank.
+- 💼 I’m currently working as Lead Business Analyst at Nubank.
 - :books: I’m currently learning Scala.
 - :raising_hand: I’m looking to collaborate on Data Science competitions.
 - 💬 Ask me about anything, I am happy to help!
