@@ -7,8 +7,6 @@
 
 
 - 💼 I’m currently working as Lead Business Analyst at Nubank.
-- :books: I’m currently learning Scala.
-- :raising_hand: I’m looking to collaborate on Data Science competitions.
 - 💬 Ask me about anything, I am happy to help!
 - ⚡ Fun fact: I love books (specially science fiction and fantasy) and PC Games (specially MMORPGS and open-ended RPGs).
 
